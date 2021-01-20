@@ -19,6 +19,6 @@
   },
   "dependencies": {
     "sirv-cli": "^1.0.0",
-    "windicss": "^2.0.1-beta"
+    "windicss": "^2.0.2"
   }
 }

@@ -1,5 +1,5 @@
 <script>
-	import Processor from 'windicss/lib';
+	import { Processor } from 'windicss';
 
 	const processor = new Processor();
 
